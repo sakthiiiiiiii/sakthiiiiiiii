@@ -8,14 +8,25 @@
 
 ## 👩‍💻 About Me
 
-I build AI applications that connect **language models, document retrieval, and tools** to practical business workflows. My projects span HR assistance, credit risk assessment, document similarity, question answering, resume screening, and computer vision.
+**Aspiring AI Developer** with a background in data analytics and hands-on projects in **Agentic AI, Generative AI, Machine Learning, Deep Learning, and NLP**. I enjoy turning what I learn into applications that retrieve information, call tools, explain predictions, and support practical business workflows.
 
-- 🤖 Built an **Agentic AI HR Assistant** using LangGraph, RAG, tool calling, and policy-based validation.
-- 🧠 Hands-on project experience in **ML, deep learning, NLP, and transformer model fine-tuning**.
-- 📊 Previously worked in **Data Analytics at Walkaroo International Pvt. Ltd.**, collaborating with Sales, Finance, and Production teams on business reporting.
-- 🎓 Pursuing **MBA – Business Analytics at Anna University**, completing April 2027.
-- 💼 Open to **Junior AI Engineer, Agentic AI / LLM Engineer, and AI Engineering Internship opportunities**.
-- 🌍 Open to relocation.
+I learned **Python, SQL, pandas, NumPy, and scikit-learn** for data preparation, feature engineering, model training, and evaluation. I expanded into **LangGraph, LangChain, LangSmith, RAG, structured outputs, and tool calling** to build agentic applications, and developed knowledge of **Model Context Protocol (MCP)**. My NLP work includes text preprocessing, tokenization, Word2Vec, semantic embeddings, cosine similarity, named entity recognition, extractive question answering, and **BERT / DistilBERT fine-tuning with Hugging Face Transformers**.
+
+### What I've Built
+
+- **[Agentic AI HR Assistant](https://github.com/sakthiiiiiiii/Agentic_AI_HR_Assistant):** Built a LangGraph application that routes policy questions and HR actions, retrieves employee handbook context, validates requests through tools, and traces workflow execution with LangSmith.
+- **[Bad Debt Risk Assessment](https://github.com/sakthiiiiiiii/Bad-Debt-Risk-Assessment):** Worked with a dataset of **1,000,000 records**, performed feature engineering and feature selection, trained credit risk classifiers, used SHAP to explain feature contributions, and built a local prediction dashboard.
+- **[Resume Screening System](https://github.com/sakthiiiiiiii/Resume_Screening_System):** Built section-level resume–job description matching with **BGE sentence embeddings** and supporting text evidence, with BERT NER and regex components for candidate information extraction. The repository includes **12 example resumes and 2 job descriptions**; these describe the sample collection, not a measured accuracy score.
+- **[Scrap Haz Detector](https://github.com/sakthiiiiiiii/Scrap-Haz-Detector):** Built a YOLOv8n and FastAPI application for detecting shock absorbers and cylinders through camera input and uploaded images. The documented dataset contains **262 training images, 37 validation images, and 16 test images**. Reported **mAP@50 is 0.605 on validation and 0.445 on test**, reflecting a proof-of-concept model evaluated on small splits.
+- **[Question Answering AI System](https://github.com/sakthiiiiiiii/Question_Answering_AI_System):** Built an extractive QA application that returns ranked answer spans with confidence scores from multiple context passages using Hugging Face Transformers, PyTorch, and Flask.
+- **[Document Similarity Engine](https://github.com/sakthiiiiiiii/Document_Similarity_Engine):** Applied preprocessing, Word2Vec representations, and cosine similarity to compare documents and retrieve related content.
+- **[SQL Data Warehouse Analytics](https://github.com/sakthiiiiiiii/SQL-Data-Warehouse-Analytics):** Applied advanced SQL to business analytics using a gold-layer schema.
+
+I also learned **Zapier and n8n for workflow automation** and use **Codex and Claude Code** for AI-assisted development. My application development toolkit includes FastAPI, Flask, Streamlit, REST APIs, and JSON.
+
+Previously, I worked in **Data Analytics at Walkaroo International Pvt. Ltd.**, collaborating with Sales, Finance, and Production teams on sales, profitability, and daily production-trend reports. I am currently pursuing an **MBA – Business Analytics at Anna University**, with completion expected in **April 2027**.
+
+**Open to Junior AI Developer, AI Engineer, Agentic AI / LLM Engineer, and AI Engineering Internship opportunities. Open to relocation.**
 
 ## 🛠️ Tech Stack
 
