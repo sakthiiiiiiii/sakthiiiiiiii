@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-I build AI applications that connect **language models, document retrieval, and tools** to practical business workflows. My projects span HR assistance, credit risk assessment, document similarity, question answering, and computer vision.
+I build AI applications that connect **language models, document retrieval, and tools** to practical business workflows. My projects span HR assistance, credit risk assessment, document similarity, question answering, resume screening, and computer vision.
 
 - 🤖 Built an **Agentic AI HR Assistant** using LangGraph, RAG, tool calling, and policy-based validation.
 - 🧠 Hands-on project experience in **ML, deep learning, NLP, and transformer model fine-tuning**.
@@ -32,6 +32,7 @@ I build AI applications that connect **language models, document retrieval, and 
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-2563EB?style=for-the-badge)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-7C3AED?style=for-the-badge)
 ![Tool Calling](https://img.shields.io/badge/Tool_Calling-7C3AED?style=for-the-badge)
 ![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-0F766E?style=for-the-badge)
 
@@ -52,6 +53,20 @@ Feature engineering • Classification • Regression • Model evaluation • C
 ![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge)
 ![Gensim](https://img.shields.io/badge/Gensim-0891B2?style=for-the-badge)
 
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-4338CA?style=for-the-badge)
+![BGE Embeddings](https://img.shields.io/badge/BGE_Embeddings-0369A1?style=for-the-badge)
+![NER](https://img.shields.io/badge/Named_Entity_Recognition-0F766E?style=for-the-badge)
+
+Text preprocessing • Tokenization • Bag of Words • Word embeddings • Semantic matching • Cosine similarity • Information extraction • Extractive question answering • BERT / DistilBERT fine-tuning
+
+### Automation & AI Coding Tools
+![Python Automation](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangGraph Workflows](https://img.shields.io/badge/LangGraph_Workflows-1C3C3C?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-111827?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
+
+Python scripting and tool-driven workflow automation; AI-assisted development with Codex and Claude Code.
+
 ### APIs & Applications
 <p><img alt="FastAPI and Flask" src="https://skillicons.dev/icons?i=fastapi,flask" /></p>
 
@@ -68,7 +83,6 @@ Feature engineering • Classification • Regression • Model evaluation • C
 ### Additional Learning
 ![CrewAI](https://img.shields.io/badge/CrewAI-DC2626?style=for-the-badge)
 ![Agno](https://img.shields.io/badge/Agno-111827?style=for-the-badge)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-7C3AED?style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud_Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ## 🚀 Featured Projects
@@ -76,6 +90,7 @@ Feature engineering • Classification • Regression • Model evaluation • C
 | Project | What I Built |
 |---|---|
 | [Agentic AI HR Assistant](https://github.com/sakthiiiiiiii/Agentic_AI_HR_Assistant) | LangGraph workflow routing, handbook RAG, HR validation tools, and LangSmith tracing |
+| [Resume Screening System](https://github.com/sakthiiiiiiii/Resume_Screening_System) | Section-level resume–JD semantic matching with BGE sentence embeddings, supporting text evidence, and BERT NER / regex extraction components |
 | [Bad Debt Risk Assessment](https://github.com/sakthiiiiiiii/Bad-Debt-Risk-Assessment) | Credit risk classification, feature engineering, SHAP explanations, and a local dashboard |
 | [Scrap Haz Detector](https://github.com/sakthiiiiiiii/Scrap-Haz-Detector) | YOLO-based shock absorber and cylinder detection with camera input and hazard alerts |
 | [Question Answering AI System](https://github.com/sakthiiiiiiii/Question_Answering_AI_System) | Extractive QA with ranked answer spans, confidence scores, and a Flask application |
