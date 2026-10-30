@@ -60,12 +60,14 @@ Feature engineering • Classification • Regression • Model evaluation • C
 Text preprocessing • Tokenization • Bag of Words • Word embeddings • Semantic matching • Cosine similarity • Information extraction • Extractive question answering • BERT / DistilBERT fine-tuning
 
 ### Automation & AI Coding Tools
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Python Automation](https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangGraph Workflows](https://img.shields.io/badge/LangGraph_Workflows-1C3C3C?style=for-the-badge)
 ![Codex](https://img.shields.io/badge/Codex-111827?style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
 
-Python scripting and tool-driven workflow automation; AI-assisted development with Codex and Claude Code.
+Workflow automation with Zapier and n8n; Python scripting and tool-driven workflows with LangGraph; AI-assisted development with Codex and Claude Code.
 
 ### APIs & Applications
 <p><img alt="FastAPI and Flask" src="https://skillicons.dev/icons?i=fastapi,flask" /></p>
