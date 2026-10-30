@@ -31,11 +31,17 @@ Previously, I worked in **Data Analytics at Walkaroo International Pvt. Ltd.**, 
 ## 🛠️ Tech Stack
 
 ### Programming & Data
-<p><img alt="Python" src="https://skillicons.dev/icons?i=python" /></p>
+<p><img alt="Python and scikit-learn" src="https://skillicons.dev/icons?i=python,sklearn" /></p>
 
 ![SQL](https://img.shields.io/badge/SQL-2563EB?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-7C3AED?style=for-the-badge)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-0F766E?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-DB2777?style=for-the-badge)
+
+Data cleaning • Exploratory data analysis (EDA) • Feature engineering • Statistical analysis • Hypothesis testing • A/B testing
 
 ### Agentic AI & Generative AI
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
